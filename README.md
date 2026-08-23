@@ -7,6 +7,7 @@
 | [1140-stone-game-ii](https://github.com/rakshitagahlwat/DSA-LeetCode/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/rakshitagahlwat/DSA-LeetCode/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/rakshitagahlwat/DSA-LeetCode/tree/master/1563-stone-game-v) |
+| [1927-sum-game](https://github.com/rakshitagahlwat/DSA-LeetCode/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/rakshitagahlwat/DSA-LeetCode/tree/master/2029-stone-game-ix) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/rakshitagahlwat/DSA-LeetCode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/rakshitagahlwat/DSA-LeetCode/tree/master/3345-smallest-divisible-digit-product-i) |
@@ -19,6 +20,7 @@
 ## String
 |  |
 | ------- |
+| [1927-sum-game](https://github.com/rakshitagahlwat/DSA-LeetCode/tree/master/1927-sum-game) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/rakshitagahlwat/DSA-LeetCode/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/rakshitagahlwat/DSA-LeetCode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/rakshitagahlwat/DSA-LeetCode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
@@ -31,6 +33,7 @@
 |  |
 | ------- |
 | [1386-cinema-seat-allocation](https://github.com/rakshitagahlwat/DSA-LeetCode/tree/master/1386-cinema-seat-allocation) |
+| [1927-sum-game](https://github.com/rakshitagahlwat/DSA-LeetCode/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/rakshitagahlwat/DSA-LeetCode/tree/master/2029-stone-game-ix) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/rakshitagahlwat/DSA-LeetCode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/rakshitagahlwat/DSA-LeetCode/tree/master/3348-smallest-divisible-digit-product-ii) |
@@ -80,6 +83,7 @@
 | [1140-stone-game-ii](https://github.com/rakshitagahlwat/DSA-LeetCode/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/rakshitagahlwat/DSA-LeetCode/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/rakshitagahlwat/DSA-LeetCode/tree/master/1563-stone-game-v) |
+| [1927-sum-game](https://github.com/rakshitagahlwat/DSA-LeetCode/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/rakshitagahlwat/DSA-LeetCode/tree/master/2029-stone-game-ix) |
 ## Zero-Sum Game
 |  |
