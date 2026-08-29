@@ -32,6 +32,7 @@
 |  |
 | ------- |
 | [0046-permutations](https://github.com/rakshitagahlwat/DSA-LeetCode/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/rakshitagahlwat/DSA-LeetCode/tree/master/0047-permutations-ii) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/rakshitagahlwat/DSA-LeetCode/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Greedy
 |  |
@@ -63,6 +64,7 @@
 |  |
 | ------- |
 | [0046-permutations](https://github.com/rakshitagahlwat/DSA-LeetCode/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/rakshitagahlwat/DSA-LeetCode/tree/master/0047-permutations-ii) |
 | [1140-stone-game-ii](https://github.com/rakshitagahlwat/DSA-LeetCode/tree/master/1140-stone-game-ii) |
 | [1386-cinema-seat-allocation](https://github.com/rakshitagahlwat/DSA-LeetCode/tree/master/1386-cinema-seat-allocation) |
 | [1563-stone-game-v](https://github.com/rakshitagahlwat/DSA-LeetCode/tree/master/1563-stone-game-v) |
@@ -126,6 +128,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0047-permutations-ii](https://github.com/rakshitagahlwat/DSA-LeetCode/tree/master/0047-permutations-ii) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/rakshitagahlwat/DSA-LeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Sliding Window
 |  |
