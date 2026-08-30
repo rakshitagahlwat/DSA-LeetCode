@@ -4,6 +4,7 @@
 ## Math
 |  |
 | ------- |
+| [0509-fibonacci-number](https://github.com/rakshitagahlwat/DSA-LeetCode/tree/master/0509-fibonacci-number) |
 | [1140-stone-game-ii](https://github.com/rakshitagahlwat/DSA-LeetCode/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/rakshitagahlwat/DSA-LeetCode/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/rakshitagahlwat/DSA-LeetCode/tree/master/1563-stone-game-v) |
@@ -55,6 +56,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0509-fibonacci-number](https://github.com/rakshitagahlwat/DSA-LeetCode/tree/master/0509-fibonacci-number) |
 | [1140-stone-game-ii](https://github.com/rakshitagahlwat/DSA-LeetCode/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/rakshitagahlwat/DSA-LeetCode/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/rakshitagahlwat/DSA-LeetCode/tree/master/1563-stone-game-v) |
@@ -166,4 +168,12 @@
 |  |
 | ------- |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/rakshitagahlwat/DSA-LeetCode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
+## Recursion
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/rakshitagahlwat/DSA-LeetCode/tree/master/0509-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/rakshitagahlwat/DSA-LeetCode/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
