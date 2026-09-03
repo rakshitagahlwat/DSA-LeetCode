@@ -60,6 +60,7 @@
 | ------- |
 | [0070-climbing-stairs](https://github.com/rakshitagahlwat/DSA-LeetCode/tree/master/0070-climbing-stairs) |
 | [0198-house-robber](https://github.com/rakshitagahlwat/DSA-LeetCode/tree/master/0198-house-robber) |
+| [0213-house-robber-ii](https://github.com/rakshitagahlwat/DSA-LeetCode/tree/master/0213-house-robber-ii) |
 | [0509-fibonacci-number](https://github.com/rakshitagahlwat/DSA-LeetCode/tree/master/0509-fibonacci-number) |
 | [1140-stone-game-ii](https://github.com/rakshitagahlwat/DSA-LeetCode/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/rakshitagahlwat/DSA-LeetCode/tree/master/1510-stone-game-iv) |
@@ -72,6 +73,7 @@
 | [0046-permutations](https://github.com/rakshitagahlwat/DSA-LeetCode/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/rakshitagahlwat/DSA-LeetCode/tree/master/0047-permutations-ii) |
 | [0198-house-robber](https://github.com/rakshitagahlwat/DSA-LeetCode/tree/master/0198-house-robber) |
+| [0213-house-robber-ii](https://github.com/rakshitagahlwat/DSA-LeetCode/tree/master/0213-house-robber-ii) |
 | [1140-stone-game-ii](https://github.com/rakshitagahlwat/DSA-LeetCode/tree/master/1140-stone-game-ii) |
 | [1386-cinema-seat-allocation](https://github.com/rakshitagahlwat/DSA-LeetCode/tree/master/1386-cinema-seat-allocation) |
 | [1563-stone-game-v](https://github.com/rakshitagahlwat/DSA-LeetCode/tree/master/1563-stone-game-v) |
