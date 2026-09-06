@@ -24,6 +24,7 @@
 ## String
 |  |
 | ------- |
+| [1768-merge-strings-alternately](https://github.com/rakshitagahlwat/DSA-LeetCode/tree/master/1768-merge-strings-alternately) |
 | [1927-sum-game](https://github.com/rakshitagahlwat/DSA-LeetCode/tree/master/1927-sum-game) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/rakshitagahlwat/DSA-LeetCode/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/rakshitagahlwat/DSA-LeetCode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -54,6 +55,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [1768-merge-strings-alternately](https://github.com/rakshitagahlwat/DSA-LeetCode/tree/master/1768-merge-strings-alternately) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/rakshitagahlwat/DSA-LeetCode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Dynamic Programming
 |  |
