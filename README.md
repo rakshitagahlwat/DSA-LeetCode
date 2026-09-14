@@ -56,6 +56,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0876-middle-of-the-linked-list](https://github.com/rakshitagahlwat/DSA-LeetCode/tree/master/0876-middle-of-the-linked-list) |
 | [1768-merge-strings-alternately](https://github.com/rakshitagahlwat/DSA-LeetCode/tree/master/1768-merge-strings-alternately) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/rakshitagahlwat/DSA-LeetCode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Dynamic Programming
@@ -209,4 +210,8 @@
 |  |
 | ------- |
 | [0337-house-robber-iii](https://github.com/rakshitagahlwat/DSA-LeetCode/tree/master/0337-house-robber-iii) |
+## Linked List
+|  |
+| ------- |
+| [0876-middle-of-the-linked-list](https://github.com/rakshitagahlwat/DSA-LeetCode/tree/master/0876-middle-of-the-linked-list) |
 <!---LeetCode Topics End-->
